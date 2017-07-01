@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: ibm-fiap-chatbot
+  host: ibm-fiap-chatbot-priscilla-parodi
+  #trocar ${random-word} por seu nome-sobrenome
+  disk_quota: 1024M
