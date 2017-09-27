@@ -43,7 +43,7 @@ if ('development' == app.get('env')) {
 }
 
 app.get('/', routes.chat);
-
+//teste
 // =====================================
 // WATSON CONVERSATION FOR ANA =========
 // =====================================
